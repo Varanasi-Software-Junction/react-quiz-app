@@ -6,6 +6,7 @@ import './App.css';
 
 function App() {
   return (
+   
     <Router>
       <Routes>
         <Route path="/" element={<SubjectList />} />
@@ -13,12 +14,12 @@ function App() {
         <Route path="/quiz" element={<QuizScreen />} />
       </Routes>
     </Router>
-  );
+   );
 
 
 
 
-  
+
 }
 
 export default App;
