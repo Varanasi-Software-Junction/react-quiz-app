@@ -7,13 +7,13 @@ import './App.css';
 function App() {
   return (
    
-    <Router>
+    
       <Routes>
         <Route path="/" element={<SubjectList />} />
         <Route path="/quizzes" element={<QuizList />} />
         <Route path="/quiz" element={<QuizScreen />} />
       </Routes>
-    </Router>
+  
    );
 
 
