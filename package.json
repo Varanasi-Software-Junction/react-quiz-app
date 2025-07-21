@@ -2,6 +2,7 @@
   "name": "react-quiz-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://varanasi-software-junction.github.io/react-quiz-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -11,8 +12,7 @@
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.7.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://varanasi-software-junction.github.io/react-quiz-app"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
